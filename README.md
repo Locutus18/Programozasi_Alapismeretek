@@ -53,8 +53,8 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 * Használható segédanyag: -
 * Tartalom: a gyakorlatokon szereplő példákhoz hasonló egyszerű feladathoz kell algoritmusokat készíteni (az ismert specifikációk figyelembe vételével)
 * Értékelés:
-** 0 - nem értékelhető (nincs/nem az előadáson elhangzott sémaalgoritmus)
-** 1-5 - megoldás helyességétől függően
+## 0 - nem értékelhető (nincs/nem az előadáson elhangzott sémaalgoritmus)
+## 1-5 - megoldás helyességétől függően
 
 ##Csoport ZHkód
 
@@ -63,8 +63,8 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 * Használható segédanyag: saját összeállítású, rövid kódolási összefoglaló, papíron
 * Tartalom: a gyakorlatokon szereplő példákhoz hasonló egyszerű feladatot kell kódolni struktogram/pszeudokód alapján számítógépen
 * Értékelés:
-** 0 - nem értékelhető (nincs/nem működő program)
-** 1-5 - megoldás helyességétől függően
+## 0 - nem értékelhető (nincs/nem működő program)
+## 1-5 - megoldás helyességétől függően
 
 ZH tudnivalók:
 
