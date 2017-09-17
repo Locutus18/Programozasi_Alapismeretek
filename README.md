@@ -11,7 +11,7 @@ Programozási Alapismeretek (BSc,17)
 A félév folyamán 2 zh lesz, az egyiket a gyakorlat időpontjában és helyén írjuk (Október 24 vagy November 7 környékén), a másodikat viszont közösen a többi csoportal (Január 4-5 körül).
 Beadandókat is kell majd írni, a progalap.inf.elte.hu oldalán található feladatokból, ez még később ki lesz osztva az órán.
  
-Akinek bármiféle észrevétele vagy kérdése van az anyaggal kapcsolatban az nyugodtan írjon a mikecz.mark.laszlo@gmail.com címre. 
+Akinek bármiféle észrevétele vagy kérdése van az anyaggal kapcsolatban az nyugodtan írjon a mikecz.mark.laszlo+progalap@gmail.com címre. 
 
 **Fontos:** A jegyzet nem törekszik minden esetben a teljességre és a pontosságra, a fő szempont, hogy a lehető legkönnyebben lehessen fokozatosan megérteni a programozás című tárgy teljesítéséhez szükséges tudáshalmazt.
 
