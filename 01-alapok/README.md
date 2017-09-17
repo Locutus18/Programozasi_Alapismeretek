@@ -47,7 +47,8 @@ bool	//logikai típus, lehetséges értékei: true(igaz) vagy false(hamis)
 char	//karakter, például: 'a', 'z' vagy '9'
 int   //egész érték, például: 1, 42, vagy 1216
 float //lebegőpontos szám
-double//kétszeres pontosságú lebegőpontos szám 
+double//kétszeres pontosságú lebegőpontos szám
+string //karakterlánc literál azaz szöveg :D 
 ```
 
 Az aritmetikai műveletek e típusok bármilyen párosítására használhatók:
