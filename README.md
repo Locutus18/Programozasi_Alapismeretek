@@ -50,20 +50,20 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 
 ## Csoport ZHalg
 
-1. Időtartam: 45 perc
-2. Helyszín: a gyakorlat helyszíne
-3. Használható segédanyag: -
-4. Tartalom: a gyakorlatokon szereplő példákhoz hasonló egyszerű feladathoz kell algoritmusokat készíteni (az ismert specifikációk figyelembe vételével)
-5. Értékelés:
-* 0 - nem értékelhető (nincs/nem az előadáson elhangzott sémaalgoritmus)
-* 1-5 - megoldás helyességétől függően
+* Időtartam: 45 perc
+* Helyszín: a gyakorlat helyszíne
+* Használható segédanyag: -
+* Tartalom: a gyakorlatokon szereplő példákhoz hasonló egyszerű feladathoz kell algoritmusokat készíteni (az ismert specifikációk figyelembe vételével)
+* Értékelés:
+    * 0 - nem értékelhető (nincs/nem az előadáson elhangzott sémaalgoritmus)
+    * 1-5 - megoldás helyességétől függően
 
 ## Csoport ZHkód
 
-1. Időtartam: 45 perc
-2. Helyszín: a gyakorlat helyszíne
-3. Használható segédanyag: saját összeállítású, rövid kódolási összefoglaló, papíron
-4. Tartalom: a gyakorlatokon szereplő példákhoz hasonló egyszerű feladatot kell kódolni struktogram/pszeudokód alapján számítógépen
-5. Értékelés:
-* 0 - nem értékelhető (nincs/nem működő program)
-* 1-5 - megoldás helyességétől függően
+* Időtartam: 45 perc
+* Helyszín: a gyakorlat helyszíne
+* Használható segédanyag: saját összeállítású, rövid kódolási összefoglaló, papíron
+* Tartalom: a gyakorlatokon szereplő példákhoz hasonló egyszerű feladatot kell kódolni struktogram/pszeudokód alapján számítógépen
+* Értékelés:
+    * 0 - nem értékelhető (nincs/nem működő program)
+    * 1-5 - megoldás helyességétől függően
