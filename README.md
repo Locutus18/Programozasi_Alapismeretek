@@ -2,7 +2,7 @@
 
 Gyakorlati Csoportok:
 
-Programozás EA+GY. (BSc,08,A)
+Programozási Alapismeretek (BSc,17)
 
 | Csoport Szám | Időpont | Oktató Neve | Oktató Elérhetősége |
 | -------- | ---- | ---- | ----------- |
