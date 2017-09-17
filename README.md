@@ -46,6 +46,8 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 * A röpdolgozatokat (D), ill. a beadandó feladatokat (C1..4) nem lehet pótolni, javítani.
 * Kerekítés a gyakorlatvezető értékelése alapján.
 
+# ZH tudnivalók:
+
 ## Csoport ZHalg
 
 1. Időtartam: 45 perc
@@ -56,7 +58,7 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 * 0 - nem értékelhető (nincs/nem az előadáson elhangzott sémaalgoritmus)
 * 1-5 - megoldás helyességétől függően
 
-##Csoport ZHkód
+## Csoport ZHkód
 
 1. Időtartam: 45 perc
 2. Helyszín: a gyakorlat helyszíne
@@ -65,8 +67,6 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 5. Értékelés:
 * 0 - nem értékelhető (nincs/nem működő program)
 * 1-5 - megoldás helyességétől függően
-
-ZH tudnivalók:
 
 <!--
 Órai munka és jelenlét:
