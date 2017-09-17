@@ -67,13 +67,3 @@ Tárgy weboldala oldala: http://progalap.inf.elte.hu
 5. Értékelés:
 * 0 - nem értékelhető (nincs/nem működő program)
 * 1-5 - megoldás helyességétől függően
-
-<!--
-Órai munka és jelenlét:
-* Az órai jelenlét 2 pont
-* Minden órán adok ki egy feladatot
- * Ha az óra végéig sikerül megoldani egy hallgatónak 2 pontot kap
- * Ha az órán nem sikerült megoldani, viszont a következő óra elejéig elküldi e-mailben a feladat helyes megoldását akkor kap 1 pontot
-
-**A szükséges ponthatár: 32 pont**
--->

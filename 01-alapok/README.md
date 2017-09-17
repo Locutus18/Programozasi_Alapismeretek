@@ -183,9 +183,37 @@ for([init_rész];[kifejezés];[léptetés]) { utasítás blokk }
 A for utasítással lehet a ciklust megvalósítani. Az inicializációs részben kell a változó(ka)t (vesszővel elválasztva, ha több van) kezdeti értékre állítani, a léptetés részben kell változtatni az értéküket. A ciklus addig tart, amíg a kifejezés értéke hamis nem lesz. Futtatási sorrendt: init_rész, kifejezés kiértékelés, ha igaz utasítás/blokk, majd léptetés és ismétlés a kifejezés kiértékeléstől.
 
 ### while
+```c++
+#include <iostream>
 
+int main() {
+  int a;
+  cin >> a;
+  while(a < 10) {
+    std::cout << a << " ";
+	a++;
+  }
+  std::cout << std::endl;
+  return 0;
+}
+```
 
 ### do while
+```c++
+#include <iostream>
+
+int main() {
+  int a;
+  cin >> a;
+  do {
+    std::cout << a << " ";
+	a++;
+  } while(a < 10);
+  std::cout << std::endl;
+  return 0;
+}
+```
+
 
 ### De hol is van ez a programkód?
 
