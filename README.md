@@ -6,7 +6,7 @@ Programozási Alapismeretek (BSc,17)
 
 | Csoport Szám | Időpont | Oktató Neve | Oktató Elérhetősége |
 | -------- | ---- | ---- | ----------- |
-| 16 | Kedd 16-18 | Mikecz Márk László | mikecz.mark.laszlo@gmail.com |
+| 16 | Kedd 16-18 | Mikecz Márk László | mikecz.mark.laszlo+progalap@gmail.com |
 
 A félév folyamán 2 zh lesz, az egyiket a gyakorlat időpontjában és helyén írjuk (Október 24 vagy November 7 környékén), a másodikat viszont közösen a többi csoportal (Január 4-5 körül).
 Beadandókat is kell majd írni, a progalap.inf.elte.hu oldalán található feladatokból, ez még később ki lesz osztva az órán.
