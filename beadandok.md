@@ -1,0 +1,23 @@
+| Neptun kód | 1. Beadandó |
+| ---------- | ----------- |
+| GDS14J | 46 |
+| O31W6V | 52 |
+| H0JZP0 | 48 |
+| QTCURO | 21 |
+| E2BKXL | 28 |
+| ZKW6BO | 34 |
+| LYRO1P | 37 |
+| RL4ESW | 47 |
+| GKKP42 | 7 | 
+| AT4A8Y | 27 | 
+| XMVW8Z | 3 | 
+| JOMFGK | 6 |
+| FI59KD | 20 | 
+| OLJ0IM | 14 |
+| L607IM | 26 |
+| F6CNZW | 2 | 
+| F4VM6F | 5 | 
+| U0EUQI | 15 | 
+| EG2S59 | 12 | 
+| PW3B73 | 20 | 
+| J65GIR | 32 | 
