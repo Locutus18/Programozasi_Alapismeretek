@@ -1,23 +1,23 @@
-| Neptun kód | 1. Beadandó |
-| ---------- | ----------- |
-| GDS14J | 46 |
-| O31W6V | 52 |
-| H0JZP0 | 48 |
-| QTCURO | 21 |
-| E2BKXL | 28 |
-| ZKW6BO | 34 |
-| LYRO1P | 37 |
-| RL4ESW | 47 |
-| GKKP42 | 7 | 
-| AT4A8Y | 27 | 
-| XMVW8Z | 3 | 
-| JOMFGK | 6 |
-| FI59KD | 20 | 
-| OLJ0IM | 14 |
-| L607IM | 26 |
-| F6CNZW | 2 | 
-| F4VM6F | 5 | 
-| U0EUQI | 15 | 
-| EG2S59 | 12 | 
-| PW3B73 | 20 | 
-| J65GIR | 32 | 
+| Neptun kód | 1. Beadandó | 2. Beadandó |
+| ---------- | ----------- | ----------- |
+| GDS14J | 46 | 2 |
+| O31W6V | 52 | 11 |
+| H0JZP0 | 48 | 28 |
+| QTCURO | 21 | 24 |
+| E2BKXL | 28 | 5 |
+| ZKW6BO | 34 | 4 |
+| LYRO1P | 37 | 3 |
+| RL4ESW | 47 | 9 |
+| GKKP42 | 7 | 31 |
+| AT4A8Y | 27 | 20 | 
+| XMVW8Z | 3 | 7 |
+| JOMFGK | 6 | 14 |
+| FI59KD | 20 | 26 |
+| OLJ0IM | 14 | 13 |
+| L607IM | 26 | 21 |
+| F6CNZW | 2 | 17 |
+| F4VM6F | 5 | 19 |
+| U0EUQI | 15 | 32 |
+| EG2S59 | 12 | 18 |
+| PW3B73 | 20 | 30 |
+| J65GIR | 32 | 36 |
