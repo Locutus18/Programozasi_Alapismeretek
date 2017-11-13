@@ -34,7 +34,7 @@ ciklus vége
 ki szamlalo
 ```
 
-Eldöntés
+## Eldöntés
 
 Szeretnénk tudni, hogy egy érték megtalálható-e egy tömbben.
 
@@ -165,7 +165,7 @@ ciklus i = 1 .. n
 ciklus vége
 ```
 
-Unió
+## Unió
 
 A és B tömb minden elemét szeretnénk C tömbbe tenni.
 
