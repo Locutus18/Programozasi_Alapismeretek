@@ -31,6 +31,6 @@ Ha kész vagy akkor küld el nekem a mikecz.mark.laszlo+progalap@gmail.com -ra �
 
 ## Gyakorláshoz
 * Most összerakott
-  * https://github.com/Locutus18/Programozasi_Alapismeretek/blob/master/06-zh/minta.md
+  * https://github.com/Locutus18/Programozasi_Alapismeretek/blob/master/08-ZH%20(Gepes)/minta.md
 
 Note: Akinek kérdése van írjon bátran és akkor bővítem az irományt.
