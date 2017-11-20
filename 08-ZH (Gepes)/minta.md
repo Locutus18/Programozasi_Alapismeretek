@@ -31,13 +31,13 @@ A fájl a feljegyzett napok számával kezdődik majd sorban 1-1 nap bevételein
 * Az első feladatban kell definiálni egy függvényt, aminek paraméterei között szerepel egy szám, amely segítségével megadhatjuk, hogy hanyadik nap átlagos forgalmát akarjuk meghatározni. Például:
 ```
 //output: 900 //(1200+1000+500) / 3
-std::cout << A_feladat(3) << std::endl;
+std::cout << A_feladat(napok,3) << std::endl;
 ```
 
 * A második feladatban is hasonlóan járjunk el mint az első feladatban. Legyen egy szám amely, segítségével megadjuk, hogy hanyadik napról akarjuk eldönteni, hogy volt-e legalább 3 vétel. Például:
 ```
 //output: 0
-std::cout << B_feladat(4) << std::endl;
+std::cout << B_feladat(napok, 4) << std::endl;
 ```
 
 * A harmadik feladatnak már nincs plusz bemenő paramétere. A harmadik feladat egy index értékkel fog visszatérni amire igaz.
