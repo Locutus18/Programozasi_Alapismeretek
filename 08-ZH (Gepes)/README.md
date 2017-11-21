@@ -27,7 +27,7 @@
 Ha kész vagy akkor küld el nekem a mikecz.mark.laszlo+progalap@gmail.com -ra és várj míg jelzek az eredménnyel.
 
 **Fontos:** Csatolmányként csak a main.cpp-t küldjétek el (becsomagolás nélkül), semmi mást.
-**Fontos:** A levél tárgya úgy kezdődjön, hogy ```[PROGALAP]``` majd utána név és neptun kód!
+**Fontos:** A levél tárgya úgy kezdődjön, hogy ```[PROGALAP_ZH]``` majd utána név és neptun kód!
 
 ## Gyakorláshoz
 * Most összerakott
