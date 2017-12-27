@@ -1,8 +1,8 @@
 | Kód | 1. Bead | 2. Bead | 3. Bead | KódbeaJegy | Nagy_Bead | Csoport_ALG | Csoport_ZH | Jegy |
 | --- | ------- | ------- | ------- | ---------- | --------- | ----------- | ---------- | ---- |
 | GDS14J | 100 | 100 | 100 | 5 |  | 5 | 3 | |
-| O31W6V | 100 | 100 | 0 | 1 | | Nem irt | 1 | |
-| H0JZP0 | 0 | 0 | 0 | 1 | | Nem irt | Nem írt | |
+| O31W6V | 100 | 100 | 0 | 2 | | Nem irt | 1 | |
+| H0JZP0 | 0 | 0 | 0 | 1 | Nem irt | Nem írt | |
 | QTCURO | 88 | 100 | 73 | 4 | | 5 | 5 | |
 | E2BKXL | 100 | 100 | 100 | 5 | | 5 | 4 | |
 | ZKW6BO | 100 | 100 | 100 | 5 | | 5 | 4 | | 
